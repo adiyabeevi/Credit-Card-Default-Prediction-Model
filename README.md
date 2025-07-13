@@ -24,6 +24,9 @@ To develop a machine learning model to predict whether a customer will default o
 
 ---
 
+📦 [Download Trained Model (.pkl)](https://drive.google.com/your_link_here)
+
+
 ## 🧪 Steps Performed
 
 ### 1. Data Loading and Cleaning
