@@ -1,3 +1,5 @@
+📦 [Download Trained Model (.pkl)](https://drive.google.com/your_link_here)
+
 ## 🧾 Project Details
 
 - **Project Name**: Credit Card Default Prediction  
@@ -24,7 +26,7 @@ To develop a machine learning model to predict whether a customer will default o
 
 ---
 
-📦 [Download Trained Model (.pkl)](https://drive.google.com/your_link_here)
+
 
 
 ## 🧪 Steps Performed
