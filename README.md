@@ -1,4 +1,4 @@
-📦 [Download Trained Model (.pkl)]((https://drive.google.com/file/d/1D9klGeb-jKyEUhlTWkpicGmh-CE3_Kco/view?usp=drive_link))
+📦 [Download Trained Model (.pkl) (https://drive.google.com/file/d/1D9klGeb-jKyEUhlTWkpicGmh-CE3_Kco/view?usp=drive_link)
 
 ## 🧾 Project Details
 
